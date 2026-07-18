@@ -32,6 +32,8 @@ A hands-on repository documenting my journey of learning LangChain and Generativ
 03_Document_Loaders
 04_Text_Splitters
 05_Embeddings
+06_Chains
+
 ```
 
 ## Author
